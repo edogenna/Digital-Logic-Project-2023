@@ -1,8 +1,10 @@
 # [Digital Logic](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=788722&polij_device_category=DESKTOP&__pj0=0&__pj1=9cc3f34aabe22aeab794c35ef361f0cf) 2023, Course Final Project
 
 This project is the final test of the "Digital Logic" course at the Polytechnic of Milan, A.Y. 2022/23.
+I did this project in pairs collaborating with my university mate [Samuele Galli](https://github.com/SamuGalli).
 
-Evaluation: ??? / 30
+
+Evaluation: 30 / 30
 
 - [Docs](#docs)
 - [Project Description](#project-description)
@@ -17,7 +19,6 @@ Project: [FILE](project.vhd)
 Description of the problem: [ITA](doc/Tema_ITA.pdf) ,  [ENG](doc/Tema_ENG.pdf)
 
 Final report: [ITA](doc/Report_ITA.pdf) ,  [ENG](doc/Report_ENG.pdf)
-
 
 
 ## Project Description
